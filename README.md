@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Welcome to Walrus! This is  where you can browse a wall full of resources on a variety of topics from learning a foreign language to checkout magic tricks. Now you can create what you want to work with inspirations you just found!
+Welcome to Walrus! You can browse a "pinterest-like" wall full of resources on a variety of topics from learning a foreign language to learning magic tricks. You can pin whatever resource inspires you and create your own to share with others. You can rate and leave comments on any of the resources on Walrus.
 
 Please register for an account and log in to be able to use Walrus.
 
